@@ -10,7 +10,7 @@
     },
 
     "title":{
-        "welcome":"Welcome to Systemic Digital Plataform",
+        "welcome":"Welcome to Vue Application Default",
         "profile":"My Profile",
         "check":"Check the correct options",
         "import":"Import batch data (optional)",
