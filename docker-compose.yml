@@ -1,0 +1,11 @@
+version: '3'
+services:
+  front-end:
+    build: .
+    restart: always
+    ports:
+     - 80:80
+     - 443:443
+    volumes:
+     - /home/systemic/volumes/nginx/conf/:/etc/nginx/conf.d/
+     - /etc/letsencrypt/live/dev.systemic.com.br/:/usr/share/nginx/ssl/

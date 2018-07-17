@@ -1,0 +1,130 @@
+{
+    "menu" : {
+        "home":"Início",
+        "management":"Gerenciamento",
+        "dashboard":"Painel"
+    },
+
+    "entity":{
+        "user":"Usuário | Usuários"
+    },
+
+    "title":{
+        "welcome":"Bem-vindo(a) à Plataforma Digital Systemic",
+        "profile":"Meu Perfil",
+        "check":"Marque as opções corretas",
+        "import":"Importar dados em lote (opcional)",
+        "success":"Sucesso",
+        "error":"Erro"
+    },
+
+    "description":{
+        "dashboard":"Aqui você verá seu painel de controle e relatórios. Explore o menu do lado esquerdo para ver as opções disponíveis.",
+        "template":"Baixe e edite este "
+    },
+
+    "tab":{
+        "new":"Adicionar Novo",
+        "saved":"Dados Salvos",
+        "feedback":"Meus Relatórios",
+        "import":"Importar Dados",
+        "registration":"Cadastro"
+
+    },
+
+    "button":{
+        "cancel":"Cancelar",
+        "login":"Entrar",
+        "logout":"Sair",
+        "save": "Salvar",
+        "template":"Modelo",
+        "upload":"Carregar Arquivo",
+        "edit":"Editar",
+        "delete":"Apagar",
+        "send":"Enviar",
+        "sendFeedback":"Enviar feedback",
+        "text":"Novo Texto",
+        "back":"Voltar",
+        "preview":"Visualizar",
+        "download":"Baixar",
+        "close":"Fechar"
+    },
+
+    "attribute":{
+        "fname":"Nome",
+        "lname":"Sobrenome",
+        "email":"Email",
+        "birth":"Data de Nascimento",
+        "gender":"Gênero",
+        "theme":"Cor do Tema",
+        "phone":"Telefone",
+        "zipcode":"CEP",
+        "country":"País",
+        "state":"Estado",
+        "city":"Cidade",
+        "address1":"Endereço",
+        "address2":"Complemento",
+        "id":"Identificador",
+        "title":"Título",
+        "type":"Tipo",
+        "startdate":"Data Inicial",
+        "enddate":"Data Final",
+        "starttime":"Hora de Início",
+        "endtime":"Hora de Fim",
+        "name":"Nome",
+        "timezone":"Fuso Horário",
+        "notification":"Notificação",
+        "permission":"Permissão",
+        "username":"Nome de usuário",
+        "true":"Verdadeiro",
+        "false":"Falso",
+        "password":"Senha",
+        "service":"Endereço do Servidor",
+        "log":"Último Log",
+        "created":"Data de Registro",
+        "role":"Papel"
+    },
+
+    "prompt":{
+        "filter":"Filtrar por ",
+        "notification":"Limpar todas as notificações.",
+        "confirmation":"Confirmar?",
+        "send":"Enviar novo",
+        "from":"De",
+        "to":"Até",
+        "generateAutomatically":"Gerar automaticamente",
+        "fill":"Por favor, verifique o item",
+        "select":"Selecione um item da lista"
+    },
+
+    "enum":{
+        "gender":"Feminino | Masculino | Outro",
+        "publish":"Publicado | Não Publicado",
+        "select":"Selecionado | Não Selecionado",
+        "merit":"Aprovado com Distinção",
+        "pass":"Aprovado",
+        "near":"Satisfatório",
+        "fail":"Reprovado",
+        "na":"Não se Aplica"
+    },
+
+    "info":{
+        "notification":"Você não tem notificações neste momento.",
+        "validation":"Preencha todos os campos corretamente!",
+        "success":"Ação realizada com sucesso!",
+        "done":"Feito!",
+        "answering":"Respondendo...",
+        "save":"Clique no botão 'Salvar' para salvar as mudanças.",
+        "deleteQuestion":"Tem certeza que deseja apagar esse item?"
+    },
+
+    "error":{
+        "permission":"Credenciais são obrigatórias para acessar este recurso!",
+        "json":"Incapaz de processar JSON",
+        "temporal":"Um erro ocorreu. Por favor, tente novamente mais tarde.",
+        "login":"Usuário inválido ou senha inválida",
+        "connection":"Falha ao conectar-se ao servidor. Por favor, verifique sua conecção de rede.",
+        "reconnecting":"Erro de conecção. Tentando reconectar...",
+        "notification":"Não foi possível adicionar anotação!"
+    }
+}

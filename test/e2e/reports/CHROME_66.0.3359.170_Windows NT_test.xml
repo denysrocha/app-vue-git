@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="test"
+    errors="0" failures="1" hostname="" id="" package="test" skipped="0"
+    tests="1" time="10.11" timestamp="Mon, 14 May 2018 13:12:20 GMT">
+  
+    <testcase name="default e2e tests" classname="test" time="10.11" assertions="1">  <failure message="Timed out while waiting for element &lt;#app&gt; to be visible for 5000 milliseconds.">    at Object.defaultE2eTests [as default e2e tests] (c:/xampp/htdocs/systemic/new_front/front-end/test/e2e/specs/test.js:13:8)
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

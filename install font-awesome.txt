@@ -1,0 +1,5 @@
+npm install webpack file-loader css-loader sass-loader node-sass --save-dev
+npm install font-awesome --save
+em build/webpack.base.conf.js procurar test: /\.(woff2?|eot|ttf|otf)(\?.*)?$/,
+em loader mudar de 'url-loader' para 'file-loader'
+no arquivo main.js fazer o import import 'font-awesome/scss/font-awesome.scss'

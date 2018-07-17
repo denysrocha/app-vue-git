@@ -1,0 +1,143 @@
+{
+    "menu" : {
+        "home":"Home",
+        "management":"Management",
+        "dashboard":"Dashboard"
+    },
+
+    "entity":{
+        "user":"User | Users"
+    },
+
+    "title":{
+        "welcome":"Welcome to Systemic Digital Plataform",
+        "profile":"My Profile",
+        "check":"Check the correct options",
+        "import":"Import batch data (optional)",
+        "success":"Success",
+        "error":"Error"
+    },
+
+    "description":{
+        "dashboard":"Here, you will see your dashboard and reports. Explore the menu on the left side for the available actions.",
+        "template":"Download and edit this "
+    },
+
+    "tab":{
+        "new":"Add new",
+        "saved":"Saved data",
+        "import":"Import Data",
+        "registration":"Registration"
+    },
+
+    "button":{
+        "cancel":"Cancel",
+        "login":"Login",
+        "logout":"Logout",
+        "about":"About Us",
+        "save": "Save",
+        "template":"Template",
+        "upload":"Upload",
+        "edit":"Edit",
+        "delete":"Delete",
+        "blank":"Blank",
+        "send":"Send",
+        "restriction":"Add restriction",
+        "video":"See video",
+        "back":"Back",
+        "preview":"Preview",
+        "download":"Download",
+        "close":"Close"
+    },
+
+    "attribute":{
+        "fname":"First name",
+        "lname":"Last name",
+        "email":"Email",
+        "birth":"Birth date",
+        "gender":"Gender",
+        "theme":"Theme color",
+        "phone":"Phone",
+        "zipcode":"Zipcode",
+        "country":"Country",
+        "state":"State",
+        "city":"City",
+        "address1":"Address line 1",
+        "address2":"Address line 2",
+        "id":"Id",
+        "title":"Title",
+        "type":"Type",
+        "startdate":"Start date",
+        "enddate":"End date",
+        "starttime":"Start time",
+        "endtime":"End time",
+        "status":"Status",
+        "detail":"Details",
+        "statement":"Statement",
+        "text":"Full text",
+        "name":"Name",
+        "timezone":"Timezone",
+        "notification":"Notification | Notificações",
+        "permission":"Permission",
+        "username":"Username",
+        "true":"True",
+        "false":"False",
+        "password":"Password",
+        "service":"Service URL",
+        "directory":"Recordings' Directory",
+        "wait":"Refresh Time",
+        "update":"Install Updates?",
+        "log":"Latest Log",
+        "created":"Date Created",
+        "role":"Role"
+    },
+
+    "prompt":{
+        "filter":"Filter by ",
+        "action":"Action",
+        "photo":"Change my photo",
+        "notification":"Clear all notifications.",
+        "confirmation":"Are you sure?",
+        "select":"Select an item"
+    },
+
+    "enum":{
+        "audio": "Audio",
+        "hypertext":"Hypertext",
+        "image":"Image",
+        "youtube":"Video from Youtube",
+        "upload":"Video Upload",
+        "choice":"Multiple choice",
+        "tf":"True or false",
+        "blanks":"Fill in the blanks",
+        "match":"Match columns",
+        "discursive":"Discursive",
+        "drawing":"Drawing",
+        "gender":"Female | Male | Other",
+        "publish":"Published | Not published",
+        "select":"Selected | Not selected",
+        "merit":"Pass w/ Merit",
+        "pass":"Pass",
+        "near":"Near fail",
+        "fail":"Fail",
+        "na":"Not Applicable"
+    },
+
+    "info":{
+        "notification":"You have no notifications at this time",
+        "validation":"Complete all fields correctly!",
+        "success":"Action realized successfully!",
+        "done":"Done!",
+        "save":"Click the save button to save changes"
+    },
+
+    "error":{
+        "permission":"Credentials are required to access this resource!",
+        "json":"Unable to process JSON",
+        "temporal":"An error has occurred. Please, try again later.",
+        "login":"Invalid user or password.",
+        "connection":"Failed to connect to server. Please check your network connection.",
+        "reconnecting":"Connection error. Trying to reconnect...",
+        "notification":"Could not add annotation!"
+    }
+}
