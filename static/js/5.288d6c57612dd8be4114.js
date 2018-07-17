@@ -1,0 +1,2 @@
+webpackJsonp([5],{"8aa8":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("h3",[this._v("You don't have permission to view this resource.")])},staticRenderFns:[]};var s=n("VU/8")(null,r,!1,function(e){n("Y2vv")},"data-v-399cfaef",null);t.default=s.exports},Y2vv:function(e,t){}});
+//# sourceMappingURL=5.288d6c57612dd8be4114.js.map
